@@ -1,0 +1,15 @@
+.pro{
+    background-color: bisque;
+
+}
+.pri{
+    background-color: rgb(177, 102, 102);
+    font-size: medium;
+    font-weight: 700;
+}
+.title{
+    font-size: 25px;
+    font-weight: 400;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(16, 3, 41);
+}
